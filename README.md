@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Harshita Shekhawat 👋
 
-<!--
-**harshita-shekhawat/harshita-shekhawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a 5th-semester BCA student at Rajasthan University, passionate about programming and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- Python
+- C
+- C++
+- Java
+- HTML
+- CSS
+
+### 🚀 Projects
+- [Student Management System](https://github.com/harshita-shekhawat/student-management-system) – A Python project using JSON for data storage.
+
+### 📜 Certifications
+- AWS
+- NPTEL
+
+### 🎯 Currently Learning
+- Python Programming
+- Data Structures and Algorithms
+- Software Development
+
+### 📫 Connect with me
+- GitHub: [harshita-shekhawat](https://github.com/harshita-shekhawat)
+
+
